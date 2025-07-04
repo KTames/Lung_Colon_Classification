@@ -1,0 +1,5 @@
+freeze_backbone: true
+lr: 0.0001
+model_name: timm/inception_v4.tf_in1k
+scheduler_patience: 5
+weight_decay: 1.0e-05
